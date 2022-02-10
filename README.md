@@ -1,5 +1,5 @@
 # work-day-scheduler
-This repo is written to stablish a work day scheduler.
+The App is made to stablish work day scheduler.
 It's purpose is to help a busy client by simplifing his/her work into hours. Therefore, he/she knows what to do in every hours of each day.
 When the client opens the scheduler,he/she will be displayed with the current day at the top of the calendar.
 When they scroll down, they will be  presented with timeblocks for standard business hours.
